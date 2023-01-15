@@ -107,6 +107,7 @@ p{
     text-align: center;
 }
 .btn_group a{
+    display: block;
     width: 300px;
     letter-spacing: 1px;
     font-size: 18px;
@@ -239,7 +240,8 @@ p{
     h1,p{
         max-width: 750px !important;
     }
-    button{
+    .btn_group a{
+        display: inline-block;
         width: 230px !important;
     }
     .ios{
