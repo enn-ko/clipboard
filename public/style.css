@@ -106,7 +106,7 @@ p{
     margin-top: 2rem;
     text-align: center;
 }
-button{
+.btn_group a{
     width: 300px;
     letter-spacing: 1px;
     font-size: 18px;
